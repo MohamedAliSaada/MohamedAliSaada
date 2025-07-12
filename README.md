@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/1oRC4SmFT8JHUwh46" alt="Mohamed Ali Saada Banner" style="max-width:100%;" />
+  <img src="https://github.com/MohamedAliSaada.png" alt="Mohamed Ali Saada Banner" style="max-width:100%;" />
 </p>
 
 <h1 align="center">👋 Mohamed Ali Saada</h1>
