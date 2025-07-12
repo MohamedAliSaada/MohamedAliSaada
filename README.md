@@ -18,22 +18,23 @@
 
 ---
 
-## 🔗 My Platforms
+## 🔗 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/MohamedAliSaada)
+- 💼 [LinkedIn – Mohamed Ali Saada](https://www.linkedin.com/in/mohamed-ali-saada-b98859302)
 - 🧠 [GitHub Projects](https://github.com/MohamedAliSaada)
-- 🛠️ [GrabCAD](https://grabcad.com/mohamed.ali.saada-1/models)
+- 🛠️ [GrabCAD Models](https://grabcad.com/mohamed.ali.saada-1/models)
 - 📘 [Facebook](https://www.facebook.com/share/1KpDUassqd/)
 - 🌐 [Linktree](https://linktr.ee/Mohamed_Ali_Saada)
+- 📄 [Download My CV (PDF)](https://drive.google.com/file/d/1Ach-eZHbA6Q3Z7JDZ8Vhqewvpq4GMmoa/view)
 
 ---
 
 ## 🚀 Interests
 
-- Flight Dynamics & Control
-- Deep Learning & AI
-- CFD for Aerospace
-- Control Systems
+- ✈️ Flight Dynamics and Control  
+- 🧠 Artificial Intelligence & Deep Learning  
+- 🌪️ CFD for Aerospace  
+- 🔧 Control Systems and Simulation
 
 ---
 
@@ -42,7 +43,7 @@
 ### 👨‍🏫 محمد علي سعادة  
 معيد في كلية الهندسة – جامعة الزقازيق  
 قسم هندسة الطيران والمركبات الفضائية، وقسم ميكانيكا القوى  
-طالب ماجستير بجامعة القاهرة – تخصص ميكانيكا الطيران والتحكم  
+طالب ماجستير بجامعة القاهرة  
 أسعى للحصول على رخصة مهندس طيران من سلطة الطيران المدني المصري  
 هاوي ذكاء صناعي ولدي مشاريع منشورة على GitHub
 
